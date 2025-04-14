@@ -1,0 +1,49 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      background:pink;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .profile {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      max-width: 300px;
+      width: 90%;
+    }
+
+    .profile img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+
+    .profile h1 {
+      margin: 10px 0;
+      font-size: 22px;
+    }
+
+    .profile p {
+      font-size: 14px;
+      color: #555;
+      margin: 10px 0 20px;
+    }
+
+    .profile ul {
+      text-align: left;
+      padding-left: 20px;
+    }
+
+    .profile li {
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+
